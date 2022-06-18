@@ -1,0 +1,23 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.app {
+    width: 600px;
+    height: 850px;
+    margin: 0 auto;    
+}
+
+section {
+    padding: 20px;
+}
+
+
